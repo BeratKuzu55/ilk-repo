@@ -1,0 +1,7 @@
+C:\C# udemy\NetFramework\NetFramework.S7.D3.Ödev\obj\Debug\NetFramework.S7.D3.MetotÖdev.csprojAssemblyReference.cache
+C:\C# udemy\NetFramework\NetFramework.S7.D3.Ödev\obj\Debug\NetFramework.S7.D3.MetotÖdev.csproj.CoreCompileInputs.cache
+C:\C# udemy\NetFramework\NetFramework.S7.D3.Ödev\obj\Debug\NetFramework.S7.D3.Ödev.exe
+C:\C# udemy\NetFramework\NetFramework.S7.D3.Ödev\obj\Debug\NetFramework.S7.D3.Ödev.pdb
+C:\C# udemy\NetFramework\NetFramework.S7.D3.Ödev\bin\Debug\NetFramework.S7.D3.Ödev.exe.config
+C:\C# udemy\NetFramework\NetFramework.S7.D3.Ödev\bin\Debug\NetFramework.S7.D3.Ödev.exe
+C:\C# udemy\NetFramework\NetFramework.S7.D3.Ödev\bin\Debug\NetFramework.S7.D3.Ödev.pdb
