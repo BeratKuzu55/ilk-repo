@@ -23,6 +23,6 @@ int main()
       }
     }
     else printf("aralik disi bir deger girdiniz : \n");
-//sunularda asal sayi uygulamasi var ona bak !!!
+
     return 0;
 }
